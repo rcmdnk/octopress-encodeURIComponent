@@ -29,3 +29,7 @@ This is useful especially if you want to pass uri to such tumblr's share link:
 
 Original buttons ([Buttons | Tumblr](http://www.tumblr.com/buttons)) are provided with additional JavaScript to encode these items.
 But you don't need such script with this filter and can write directly in one place.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rcmdnk/octopress-encodeuricomponent/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
